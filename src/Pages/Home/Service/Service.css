@@ -1,0 +1,10 @@
+.card{
+    width: 350px;
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    
+    text-align: center;
+}
+.service img{
+    width: 250px;
+}

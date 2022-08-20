@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "English",
+        "price": "1600",
+        "description": "It is the language of science, aviation, computers, diplomacy and tourism. Last but not least, it is the language of international communication, the media and the internet. Whether it is for professional or personal reasons, understanding the importance of English will help you reach your goals..",
+        "img": "https://i.ibb.co/M7FM90r/english.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Math",
+        "price": "1800",
+        "description": "Mathematics is the science that deals with the logic of shape, quantity and arrangement. Math is all around us, in everything we do. It is the building block for everything in our daily lives, including mobile devices, computers, software, architecture (ancient and modern), art, money, engineering and even sports.",
+        "img": "https://i.ibb.co/ynDsWyh/math.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Biology",
+        "price": "1400",
+        "description": "Biology is a branch of science that deals with living organisms and their vital processes. Biology encompasses diverse fields, including botany, conservation, ecology, evolution, genetics, marine biology, medicine, microbiology, molecular biology, physiology, and zoology.",
+        "img": "https://i.ibb.co/QKMGf6L/biology.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Physics",
+        "price": "1350",
+        "description": "Physics is the branch of science that deals with the structure of matter and how the fundamental constituents of the universe interact. It studies objects ranging from the very small using quantum mechanics to the entire universe using general relativity.",
+        "img": "https://i.ibb.co/60Zzkc0/physics.jpg"
+    }
+
+   
+]
